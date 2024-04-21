@@ -1,0 +1,80 @@
+{
+    "metadata":{
+        "name":"Amit Tomar",
+        "designation":"Assistant Professor",
+        "department":"Computer Science & Engineering",
+        "L-T-P":"7-0-6"
+    },
+    "Monday": {
+        "8:30-9:25": "No Class",
+        "9:30-10:25": "CSET106: G5,(L): Dr. Amit Tomar {103-N-LH(240)}",
+        "10:40-11:35": "No Class",
+        "11:40-12:35": "No Class",
+        "12:40-1:30": "Break",
+        "13:30-14:25": "No Class",
+        "14:30-15:25": "CSET106: B41,B42,(T): Dr. Amit Tomar {115-N-CA(60)}",
+        "15:40-16:35": "No Class",
+        "16:40-17:35": "No Class",
+        "17:40-18:35": "No Class"
+    },
+    "Tuesday": {
+        "8:30-9:25": "No Class",
+        "9:30-10:25": "No Class",
+        "10:40-11:35": "CSET106: B5,B6,(T): Dr. Amit Tomar {306-B-CA(60)}",
+        "11:40-12:35": "No Class",
+        "12:40-1:30": "CSET106: G9,(L): Dr. Amit Tomar {104-N-LH(240)}",
+        "13:30-14:25": "No Class",
+        "14:30-15:25": "No Class",
+        "15:40-16:35": "No Class",
+        "16:40-17:35": "No Class",
+        "17:40-18:35": "No Class"
+    },
+    "Wednesday": {
+        "8:30-9:25": "CSET106: G9,(L): Dr. Amit Tomar {104-N-LH(240)}",
+        "9:30-10:25": "No Class",
+        "10:40-11:35": "CSET106: G5,(L): Dr. Amit Tomar {103-N-LH(240)}",
+        "11:40-12:35": "No Class",
+        "12:40-1:30": "Break",
+        "13:30-14:25": "CSET106: B37,B38,(T): Dr. Amit Tomar {127-N-CA(60)}",
+        "14:30-15:25": "No Class",
+        "15:40-16:35": "No Class",
+        "16:40-17:35": "No Class",
+        "17:40-18:35": "CSET306-UG-Research: ALL-L,(L): Dr. Amit Tomar {Online}"
+    },
+    "Thursday": {
+        "8:30-9:25": "No Class",
+        "9:30-10:25": "No Class",
+        "10:40-11:35": "No Class",
+        "11:40-12:35": "No Class",
+        "12:40-1:30": "Break",
+        "13:30-14:25": "No Class",
+        "14:30-15:25": "No Class",
+        "15:40-16:35": "No Class",
+        "16:40-17:35": "No Class",
+        "17:40-18:35": "No Class"
+    },
+    "Friday": {
+        "8:30-9:25": "CSET106: B55,B56,(T): Dr. Amit Tomar {216-N-CA(60)}",
+        "9:30-10:25": "CSET106: G9,(L): Dr. Amit Tomar {102-B-LH(150)}",
+        "10:40-11:35": "No Class",
+        "11:40-12:35": "CSET106: G5,(L): Dr. Amit Tomar {101-N-LH(240)}",
+        "12:40-1:30": "Break",
+        "13:30-14:25": "No Class",
+        "14:30-15:25": "CSET106: B67,B68,(T): Dr. Amit Tomar {128-N-CA(60)}",
+        "15:40-16:35": "No Class",
+        "16:40-17:35": "No Class",
+        "17:40-18:35": "No Class"
+    },
+    "Saturday": {
+        "8:30-9:25": "No Class",
+        "9:30-10:25": "No Class",
+        "10:40-11:35": "No Class",
+        "11:40-12:35": "No Class",
+        "12:40-1:30": "Break",
+        "13:30-14:25": "No Class",
+        "14:30-15:25": "No Class",
+        "15:40-16:35": "No Class",
+        "16:40-17:35": "No Class",
+        "17:40-18:35": "No Class"
+    }
+}

@@ -1,0 +1,5 @@
+openpyxl
+langchain
+llama-index
+openai
+jsonpath-ng

@@ -1,0 +1,80 @@
+{
+    "metadata":{
+        "name":"Abhimanyu",
+        "designation":"Assistant Professor",
+        "department":"Computer Science and Engineering",
+        "L-T-P":"7-0-6"
+    },
+    "Monday": {
+        "8:30-9:25": "No Class",
+        "9:30-10:25": "No Class",
+        "10:40-11:35": "CSET105: B4,(P): Dr. Abhimanyu bar {203 B-LA}",
+        "11:40-12:35": "CSET105: B4,(P): Dr. Abhimanyu bar {203 B-LA}",
+        "12:40-1:30": "Break",
+        "13:30-14:25": "CSET105: G2,(L): Dr. Abhimanyu bar {102-N-LH(240)}",
+        "14:30-15:25": "No Class",
+        "15:40-16:35": "No Class",
+        "16:40-17:35": "CSET105: G4,(L): Dr. Abhimanyu bar {102-N-LH(240)}",
+        "17:40-18:35": "No Class"
+    },
+    "Tuesday": {
+        "8:30-9:25": "No Class",
+        "9:30-10:25": "No Class",
+        "10:40-11:35": "No Class",
+        "11:40-12:35": "No Class",
+        "12:40-1:30": "Break",
+        "13:30-14:25": "No Class",
+        "14:30-15:25": "No Class",
+        "15:40-16:35": "No Class",
+        "16:40-17:35": "No Class",
+        "17:40-18:35": "No Class"
+    },
+    "Wednesday": {
+        "8:30-9:25": "No Class",
+        "9:30-10:25": "No Class",
+        "10:40-11:35": "No Class",
+        "11:40-12:35": "No Class",
+        "12:40-1:30": "Break",
+        "13:30-14:25": "No Class",
+        "14:30-15:25": "CSET105: G2,(L): Dr. Abhimanyu bar {102-N-LH(240)}",
+        "15:40-16:35": "CSET105: G4,(L): Dr. Abhimanyu bar {102-N-LH(240)}",
+        "16:40-17:35": "No Class",
+        "17:40-18:35": "CSET306-UG-Research: ALL-L,(L): Dr. Abhimanyu bar {Online}"
+    },
+    "Thursday": {
+        "8:30-9:25": "CSET105: B15,(P): Dr. Abhimanyu bar {206 B-LA}",
+        "9:30-10:25": "CSET105: B15,(P): Dr. Abhimanyu bar {206 B-LA}",
+        "10:40-11:35": "No Class",
+        "11:40-12:35": "No Class",
+        "12:40-1:30": "Break",
+        "13:30-14:25": "CSET105: G2,(L): Dr. Abhimanyu bar {102-N-LH(240)}",
+        "14:30-15:25": "No Class",
+        "15:40-16:35": "CSET105: G4,(L): Dr. Abhimanyu bar {103-N-LH(240)}",
+        "16:40-17:35": "No Class",
+        "17:40-18:35": "No Class"
+    },
+    "Friday": {
+        "8:30-9:25": "No Class",
+        "9:30-10:25": "No Class",
+        "10:40-11:35": "No Class",
+        "11:40-12:35": "No Class",
+        "12:40-1:30": "Break",
+        "13:30-14:25": "No Class",
+        "14:30-15:25": "No Class",
+        "15:40-16:35": "CSET105: B56,(P): Dr. Abhimanyu bar {207 B-LA}",
+        "16:40-17:35": "CSET105: B56,(P): Dr. Abhimanyu bar {207 B-LA}",
+        "17:40-18:35": "No Class"
+    },
+    "Saturday": {
+        "8:30-9:25": "No Class",
+        "9:30-10:25": "No Class",
+        "10:40-11:35": "No Class",
+        "11:40-12:35": "No Class",
+        "12:40-1:30": "Break",
+        "13:30-14:25": "No Class",
+        "14:30-15:25": "No Class",
+        "15:40-16:35": "No Class",
+        "16:40-17:35": "No Class",
+        "17:40-18:35": "No Class"
+    }
+}

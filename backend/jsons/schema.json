@@ -1,0 +1,116 @@
+{
+    "$ref": "#/definitions/Welcome8",
+    "definitions": {
+        "Welcome8": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "metadata": {
+                    "$ref": "#/definitions/Metadata"
+                },
+                "Monday": {
+                    "$ref": "#/definitions/Day"
+                },
+                "Tuesday": {
+                    "$ref": "#/definitions/Day"
+                },
+                "Wednesday": {
+                    "$ref": "#/definitions/Day"
+                },
+                "Thursday": {
+                    "$ref": "#/definitions/Day"
+                },
+                "Friday": {
+                    "$ref": "#/definitions/Day"
+                },
+                "Saturday": {
+                    "$ref": "#/definitions/Day"
+                }
+            },
+            "required": [
+                "Friday",
+                "Monday",
+                "Saturday",
+                "Thursday",
+                "Tuesday",
+                "Wednesday",
+                "metadata"
+            ],
+            "title": "Welcome8"
+        },
+        "Day": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "8:30-9:25": {
+                    "type": "string"
+                },
+                "9:30-10:25": {
+                    "type": "string"
+                },
+                "10:40-11:35": {
+                    "type": "string"
+                },
+                "11:40-12:35": {
+                    "type": "string"
+                },
+                "12:40-1:30": {
+                    "type": "string"
+                },
+                "13:30-14:25": {
+                    "type": "string"
+                },
+                "14:30-15:25": {
+                    "type": "string"
+                },
+                "15:40-16:35": {
+                    "type": "string"
+                },
+                "16:40-17:35": {
+                    "type": "string"
+                },
+                "17:40-18:35": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "10:40-11:35",
+                "11:40-12:35",
+                "12:40-1:30",
+                "13:30-14:25",
+                "14:30-15:25",
+                "15:40-16:35",
+                "16:40-17:35",
+                "17:40-18:35",
+                "8:30-9:25",
+                "9:30-10:25"
+            ],
+            "title": "Day"
+        },
+        "Metadata": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "designation": {
+                    "type": "string"
+                },
+                "department": {
+                    "type": "string"
+                },
+                "L-T-P": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "L-T-P",
+                "department",
+                "designation",
+                "name"
+            ],
+            "title": "Metadata"
+        }
+    }
+}
